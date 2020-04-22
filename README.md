@@ -69,7 +69,7 @@ public class Subscription
 ```
 
 - A Subscriber doesn't necessarily have to be an individual user. By abstracting
-  this away we could support Business to Business transactions with little to zero
+  this away we could support Business to Business transactions with little to zero changes
   to the schema.
 
 - The above would enable a Subscriber to have multiple subscriptions each with their own billing details. I think that this would be advantageous in the longer term especially if the business expand their service offerings.
